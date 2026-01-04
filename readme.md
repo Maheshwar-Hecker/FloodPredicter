@@ -202,5 +202,5 @@ You didn’t just build a model — you built a **system**.
 
 ---
 
-**Author:** You  
+**Author:** R. R. Maheshwar  
 **Project Type:** Applied AI + Computer Vision + Web Systems
